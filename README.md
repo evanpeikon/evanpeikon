@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evanpeikon
-- 🧪 I'm a computational biologist, physiologist, and entrepreneur with a background in wearable biosensor development, multi-omics data analysis, and biomarker discovery.
-- 🏋️‍♂️ I spent ~7 years as a physiologist and data scientist for professional athletes and teams before co-founding NNOXX, where I lead the biosensor and bio-algorithm development teams. 
-- 🧬 I'm also currently pursuing a PhD in Bioinformatics & Computational Biology at George Mason University's School of Systems Biology.
+- 🧪 I'm a computational biologist, physiologist, and entrepreneur with a background in wearable biosensor development and multi-omics data analysis. 
+- 🏋️‍♂️ I began my career as a physiologist and data scientist working with professional athletes and teams before co-founding NNOXX, where I lead the biosensor and bio-algorithm development teams.
+- 🧬 I'm also currently pursuing a PhD in Bioinformatics & Computational Biology with the aim of developing new technologies to identify disease biomarkers and address questions in medical science that could not be answered previously.
 - 💻 I blog about bioinformatics, wearable technology, and biotechnology at [Decoding Biology](https://decodingbiology.substack.com ).
 - 📬 You can reach me at evanpeikon@gmail.com
 
