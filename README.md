@@ -5,6 +5,8 @@
 - 💻 I blog about bioinformatics, wearable technology, and biotechnology at [Decoding Biology](https://decodingbiology.substack.com ).
 - 📬 You can reach me at evanpeikon@gmail.com
 
+![Total Stars](https://img.shields.io/github/stars/evanpeikon?style=social)
+
 <!---
 evanpeikon/evanpeikon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
