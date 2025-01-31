@@ -4,8 +4,7 @@
 - 🧬 I'm also currently pursuing a PhD in Bioinformatics & Computational Biology with the aim of developing new technologies to identify disease biomarkers and address questions in medical science that could not be answered previously.
 - 💻 I blog about bioinformatics, wearable technology, and biotechnology at [Decoding Biology](https://decodingbiology.substack.com ).
 - 📬 You can reach me at evanpeikon@gmail.com
-
-![Total Stars](https://img.shields.io/github/stars/evanpeikon?style=social)
+- ![Total Stars](https://img.shields.io/github/stars/evanpeikon?style=social)
 
 <!---
 evanpeikon/evanpeikon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
