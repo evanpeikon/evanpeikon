@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @evanpeikon
-- 🧪 I'm a bioinformatics scientist and computational biologist working at the intersections of wearable biosensor technology, multiomic data analysis, time-series biometric analysis, and network modeling. 
-- 🏋️‍♂️ I began my career as a physiologist and biomedical data scientist working with olympians, professional athletes and teams, and human performance groups within the DoD before co-founding NNOXX, where I lead the biomarker discovery and algorithm development teams.
-- 🚀 I'm also an active contributor to NASA GeneLab's Alzheimers Disease/Brain Resilience analysis working group, where I study neurodegenerative disease mechanisms and countermeasures. 
-- 🧬 Additionally, I'm working on a PhD in Bioinformatics & Computational Biology at GMU's School of System's Biology, where I work on network-based approaches to predicting clinical symptomology from multiomic data and research applied proteomics in cancer.
-- 💻 I write in-depth technical articles at [Decoding Biology](https://decodingbiology.substack.com ).
+- 🧪 I'm a bioinformatics scientist and computational biologist working at the intersections of wearable biosensor technology, multiomics, and network modeling.
+- 🩻 I began my career as a physiologist and biomedical data scientist in the human performance space, working with olympians, professional sports teams, and the DoD. My work here spanned developing assessment protocols, analysis tools, and decision making frameworks for new biosensing modalities.
+- 🧬 In 2020, I co-founded NNOXX, a spin-out from the Harrington Discovery Institute at Case Western, where I now lead biomarker discovery and algorithm development teams.
+- 🧫 I'm also working on a PhD in Bioinformatics & Computational Biology at GMU, where my research centers on network-based approaches to predicting clinical symptomology from multiomic data (with applications in pandemic response) and applied proteomics in cancer (personalized therapy). 
+- 🚀 In my free time I write in-depth technical articles at [Decoding Biology](https://decodingbiology.substack.com ). I’m also an active contributor to NASA GeneLab's Alzheimers Disease/Brain Resilience analysis working group, where I study neurodegenerative disease mechanisms and countermeasures.
 - 📬 You can reach me at evanpeikon@gmail.com
 - ![Total Stars](https://img.shields.io/github/stars/evanpeikon?style=social)
 
