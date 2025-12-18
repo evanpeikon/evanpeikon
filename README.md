@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evanpeikon
-- 🧪 I'm a computational biologist and bioengineer working at the intersection of wearable biosensors, digital and molecular biomarkers, and network biology, with applications in precision medicine and biodefense.
+- 🧪 I'm a computational biologist and bioengineer developing novel approaches to precision medicine and biodefense through the integration of next-generation wearable biosensors, digital and molecular biomarkers, and network biology.  
 - 🩻 I started my career in the human performance space, working with Olympians, professional sports teams, and DoD Human Systems Integration programs. My work spanned developing physiological assessment protocols, predictive algorithms, and analysis platforms that integrate physical, physiological, behavioral, and environmental data to solve organizations' most pressing issues.
 - 🧬 In 2020, I co-founded NNOXX, a spin-out from the Harrington Discovery Institute at Case Western, where I develop new biosensing technologies and biomarker measurement algorithms. 
 - 🧫 I'm also working on a PhD in Bioinformatics & Computational Biology at GMU, where I where I research multiomics-based approaches to identifying predictive, prognostic, and diagnostic biomarkers and network signatures in cancer and infectious disease.  
