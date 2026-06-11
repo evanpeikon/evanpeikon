@@ -1,6 +1,6 @@
 - 👋 Hello World, I'm a computational biologist whose research spans precision oncology and biodefense. The central question driving my work is how biological systems fail, adapt, and resist intervention. 
-- 🧪 As a co-founder and chief scientific officer at NNOXX—a spin-out from the Harrington Discovery Institute at Case Western—where I developed novel digital and molecular biosensors, taking a first-to-market technology from concept to commercialization.
-- 🧬 Since then, my focus has been on developing computational models to understand mechanisms of treatment resistance and uncover latent therapeutic vulnerabilities in cancer.
+- 🧪 As a co-founder and chief scientific officer at NNOXX—a spin-out from the Harrington Discovery Institute at Case Western—I led the development of novel digital and molecular biosensors, taking a first-to-market technology from concept to commercialization.
+- 🧬 Since then, my focus has been on developing computational models to understand mechanisms of treatment resistance and uncover latent therapeutic vulnerabilities in cancer
 - 💀 You can read about what I’m currently learning, working on, and thinking about on [Sequence & Destroy](https://sequenceanddestroy.substack.com). Additionaly, you can contact me [here](https://www.evanpeikon.com/contact). 
 - ![Total Stars](https://img.shields.io/github/stars/evanpeikon?style=social)
 
